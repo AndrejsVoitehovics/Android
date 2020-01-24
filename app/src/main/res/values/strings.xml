@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Second_Try</string>
+    <string name="button">BUTTON</string>
+    <string name="login">Login</string>
+    <string name="enter_login">Enter Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">sign in</string>
+</resources>
